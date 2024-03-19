@@ -1,0 +1,43 @@
+body {
+
+    text-align: center;
+    
+    background: linear-gradient(#40c8f6 0%, #f2eb0f 100%);
+}
+
+img{
+    border-radius: 50%;
+}
+.header_div{
+    background-color: rgb(108, 184, 231);
+    color:indigo
+    ;
+    font-family: "https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Open+Sans:wght@300&family=Roboto+Slab:wght@300&display=swap";
+}
+.header_div p{
+    color: navy;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto+Slab:wght@300&display=swap" ;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    border-radius: 50%;
+    font-weight: bold;
+    letter-spacing: 3px;
+      
+}
+.footer{
+    position: fixed;
+    color: rgb(252, 252, 252);
+    bottom: 0;
+    width: 100%;
+    background-color: goldenrod;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    font-family:"https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto+Slab:wght@300&display=swap" ;
+    
+}
